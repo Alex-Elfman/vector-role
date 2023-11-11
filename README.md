@@ -27,4 +27,4 @@ MIT
 Author Information
 ------------------
 
-Aleksandr Makarov
+Aleksandr Osipov
